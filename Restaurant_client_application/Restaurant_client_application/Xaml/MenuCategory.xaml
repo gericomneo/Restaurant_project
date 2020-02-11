@@ -1,0 +1,34 @@
+﻿<UserControl x:Class="pl.edu.wat.wcy.pz.restaurant_client_application.Xaml.MenuMenuItemsCategoriesId"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+             xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+             xmlns:local="clr-namespace:pl.edu.wat.wcy.pz.restaurant_client_application.Xaml"
+             mc:Ignorable="d" 
+             HorizontalAlignment="Stretch"
+             VerticalAlignment="Stretch"
+             HorizontalContentAlignment="Stretch"
+             VerticalContentAlignment="Stretch"    
+             Height="auto"
+             Width="auto">
+    <UserControl.Background>
+        <ImageBrush ImageSource="/Restaurant_client_application;component/Images/BackgroundTheme.jpg"/>
+    </UserControl.Background>
+    <Grid Width = "Auto" MinWidth="954" Height = "Auto" MinHeight="540">
+        <Button x:Name="ButtonBack" Content="Powrót" HorizontalAlignment="Center" Margin="0,0,0,40" VerticalAlignment="Bottom" Width = "Auto" MinWidth="226" Height = "Auto" MinHeight="44" Background="#DD304155" FontFamily="Gabriola" FontSize="26" BorderThickness="1" Click="ButtonBack_Click"  Foreground="#DDD4BE75" BorderBrush="#DD2569AC"/>
+        <ListBox x:Name="ListBoxMenu"  HorizontalContentAlignment="Center"  VerticalContentAlignment="Center" HorizontalAlignment="Center" Height = "Auto" MinHeight="470" Width = "Auto" MinWidth="650" Margin="152,0,152,110" ScrollViewer.HorizontalScrollBarVisibility="Disabled" ScrollViewer.CanContentScroll="False" AutomationProperties.IsOffscreenBehavior="Offscreen"  Foreground="{x:Null}">
+            <ListBox.Background>
+                <ImageBrush ImageSource="/Restaurant_client_application;component/Images/MenuTheme.JPG" Stretch="UniformToFill"/>
+            </ListBox.Background>
+            <ListBox.ItemsPanel>
+
+                <ItemsPanelTemplate>
+                    <WrapPanel Orientation="Horizontal"/>
+                </ItemsPanelTemplate>
+
+            </ListBox.ItemsPanel>
+
+        </ListBox>
+
+    </Grid>
+</UserControl>

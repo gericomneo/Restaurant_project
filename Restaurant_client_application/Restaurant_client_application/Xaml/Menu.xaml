@@ -1,0 +1,91 @@
+﻿<UserControl x:Class="pl.edu.wat.wcy.pz.restaurant_client_application.Xaml.Menu"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+             xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+             xmlns:local="clr-namespace:pl.edu.wat.wcy.pz.restaurant_client_application.Xaml"
+             mc:Ignorable="d" 
+             HorizontalAlignment="Stretch"
+             VerticalAlignment="Stretch"
+             HorizontalContentAlignment="Stretch"
+             VerticalContentAlignment="Stretch"    
+             Height="Auto"
+             Width="Auto">
+    <UserControl.Background>
+        <ImageBrush ImageSource="/Restaurant_client_application;component/Images/BackgroundTheme.jpg"/>
+    </UserControl.Background>
+    <Grid Width = "Auto" MinWidth="954" Height = "Auto" MinHeight="540">
+        <Grid.RowDefinitions>
+            <RowDefinition Height = "270*"/>
+            <RowDefinition Height = "270*"/>
+        </Grid.RowDefinitions>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width = "238*"/>
+            <ColumnDefinition Width = "238*"/>
+            <ColumnDefinition Width = "238*"/>
+            <ColumnDefinition Width = "238*"/>
+        </Grid.ColumnDefinitions>
+
+        <Grid Margin="5" Grid.Row="0" Grid.Column="0" Opacity="0.8">
+            <Grid.Background>
+                <ImageBrush ImageSource="/Restaurant_client_application;component/Images/Breakfast.jpg" Opacity="0.8"/>
+            </Grid.Background>
+            <Button x:Name="ButtonBreakfast" Content="Śniadania" MinWidth="228" Height = "Auto" MinHeight="260"  Foreground="#DDFFFFFF" FontSize="48" FontFamily="Gabriola" FontWeight="Bold" Click="ButtonBreakfast_Click">
+                <Button.Background>
+                    <ImageBrush/>
+                </Button.Background>
+            </Button>
+        </Grid>
+        <Grid Margin="5" Grid.Row="1" Grid.Column="0" Opacity="0.795">
+            <Grid.Background>
+                <ImageBrush ImageSource="/Restaurant_client_application;component/Images/Drinks.jpg" Opacity="0.8"/>
+            </Grid.Background>
+            <Button x:Name="ButtonSoftDrink" Width = "Auto" MinWidth="228" Height = "Auto" MinHeight="260" Background="{x:Null}" Content="Napoje" FontFamily="Gabriola" FontSize="48"  Foreground="#DDFFFFFF" FontWeight="Bold" Click="ButtonSoftDrink_Click"/>
+        </Grid>
+        <Grid Margin="5" Grid.Row="0" Grid.Column="1" Opacity="0.8">
+            <Grid.Background>
+                <ImageBrush ImageSource="/Restaurant_client_application;component/Images/Dinner.jpg" Opacity="0.8"/>
+            </Grid.Background>
+            <Button x:Name="ButtonDinner" Width = "Auto" MinWidth="228" Height = "Auto" MinHeight="260" Background="{x:Null}" Content="Obiady" FontFamily="Gabriola" FontSize="48" FontWeight="Bold"  Foreground="#DDFFFFFF" Click="ButtonDinner_Click" Margin="0,0,1,0"/>
+        </Grid>
+        <Grid Margin="5" Grid.Row="1" Grid.Column="1" Opacity="0.8">
+            <Grid.Background>
+                <ImageBrush ImageSource="/Restaurant_client_application;component/Images/HotDrink.jpg" Opacity="0.9"/>
+            </Grid.Background>
+            <Button x:Name="ButtonHotDrink" Width = "Auto" MinWidth="228" Height = "Auto" MinHeight="260" Margin="1,0,0,0" Background="{x:Null}" Content="Gorące &#xD;&#xA;napoje" FontFamily="Gabriola" FontSize="48" FontWeight="Bold" Click="ButtonHotDrink_Click"/>
+        </Grid>
+        <Grid Margin="5" Grid.Row="0" Grid.Column="2" Opacity="0.8">
+            <Grid.Background>
+                <ImageBrush ImageSource="/Restaurant_client_application;component/Images/Supper.jpg" Opacity="0.8"/>
+            </Grid.Background>
+            <Button x:Name="ButtonSupper" Width = "Auto" MinWidth="228" Height = "Auto" MinHeight="260" Background="{x:Null}" Content="Kolacje" FontFamily="Gabriola" FontSize="48" FontWeight="Bold" Click="ButtonSupper_Click"/>
+        </Grid>
+        <Grid Margin="5" Grid.Row="1" Grid.Column="2" Opacity="0.8">
+            <Grid.Background>
+                <ImageBrush ImageSource="/Restaurant_client_application;component/Images/Dessert.jpg"/>
+            </Grid.Background>
+            <Button x:Name="ButtonDessert" Width = "Auto" MinWidth="228" Height = "Auto" MinHeight="260" Background="{x:Null}" Content="Desery" FontFamily="Gabriola" FontSize="48" FontWeight="Bold" Click="ButtonDessert_Click"/>
+        </Grid>
+        <Grid Margin="5" Grid.Row="0" Grid.Column="3" Opacity="0.8">
+            <Grid.Background>
+                <ImageBrush ImageSource="/Restaurant_client_application;component/Images/Salads.jpg" Opacity="0.7"/>
+            </Grid.Background>
+            <Button x:Name="ButtonSalad" Width = "Auto" MinWidth="228" Height = "Auto" MinHeight="260" Margin="1,0,0,0" Background="{x:Null}" Content="Sałatki" FontFamily="Gabriola" FontSize="48" FontWeight="Bold"  Foreground="#DDFFFFFF" RenderTransformOrigin="0.5,0.5" Click="ButtonSalad_Click">
+                <Button.RenderTransform>
+                    <TransformGroup>
+                        <ScaleTransform ScaleY="1" ScaleX="1"/>
+                        <SkewTransform AngleY="0" AngleX="0"/>
+                        <RotateTransform Angle="0"/>
+                        <TranslateTransform/>
+                    </TransformGroup>
+                </Button.RenderTransform>
+            </Button>
+        </Grid>
+        <Grid Margin="5" Grid.Row="1" Grid.Column="3" Opacity="0.8">
+            <Grid.Background>
+                <ImageBrush ImageSource="/Restaurant_client_application;component/Images/Alcohol.jpg"/>
+            </Grid.Background>
+            <Button x:Name="ButtonAlcohol" Content="Alkohole" Width = "Auto" MinWidth="228" Height = "Auto" MinHeight="260" Margin="1,0,0,0" Background="{x:Null}" FontFamily="Gabriola" FontSize="48" FontWeight="Bold" Click="ButtonAlcohol_Click"/>
+        </Grid>
+    </Grid>
+</UserControl>

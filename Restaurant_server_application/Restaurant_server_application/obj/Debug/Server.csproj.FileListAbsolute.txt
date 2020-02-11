@@ -1,0 +1,14 @@
+C:\Users\darnoK3016\source\repos\event-programming-project\Server\Server\bin\Debug\Server.exe.config
+C:\Users\darnoK3016\source\repos\event-programming-project\Server\Server\bin\Debug\Server.exe
+C:\Users\darnoK3016\source\repos\event-programming-project\Server\Server\bin\Debug\Server.pdb
+C:\Users\darnoK3016\source\repos\event-programming-project\Server\Server\bin\Debug\EntityFramework.dll
+C:\Users\darnoK3016\source\repos\event-programming-project\Server\Server\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\darnoK3016\source\repos\event-programming-project\Server\Server\bin\Debug\EntityFramework.xml
+C:\Users\darnoK3016\source\repos\event-programming-project\Server\Server\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\darnoK3016\source\repos\event-programming-project\Server\Server\obj\Debug\Server.csprojAssemblyReference.cache
+C:\Users\darnoK3016\source\repos\event-programming-project\Server\Server\obj\Debug\Server.Migrations.Initial.resources
+C:\Users\darnoK3016\source\repos\event-programming-project\Server\Server\obj\Debug\Server.csproj.GenerateResource.cache
+C:\Users\darnoK3016\source\repos\event-programming-project\Server\Server\obj\Debug\Server.csproj.CoreCompileInputs.cache
+C:\Users\darnoK3016\source\repos\event-programming-project\Server\Server\obj\Debug\Server.csproj.CopyComplete
+C:\Users\darnoK3016\source\repos\event-programming-project\Server\Server\obj\Debug\Server.exe
+C:\Users\darnoK3016\source\repos\event-programming-project\Server\Server\obj\Debug\Server.pdb

@@ -1,0 +1,41 @@
+C:\Users\darnoK3016\source\repos\ee\Server\Server\obj\Debug\Restaurant_server_application.csprojAssemblyReference.cache
+C:\Users\darnoK3016\source\repos\ee\Server\Server\obj\Debug\pl.edu.wat.wcy.restaurant_server_application.Migrations.Initial.resources
+C:\Users\darnoK3016\source\repos\ee\Server\Server\obj\Debug\Restaurant_server_application.csproj.GenerateResource.cache
+C:\Users\darnoK3016\source\repos\ee\Server\Server\obj\Debug\Restaurant_server_application.csproj.CoreCompileInputs.cache
+C:\Users\darnoK3016\source\repos\ee\Server\Server\obj\Debug\Server.exe
+C:\Users\darnoK3016\source\repos\ee\Server\Server\obj\Debug\Server.pdb
+C:\Users\darnoK3016\source\repos\ee\Server\Server\bin\Debug\Server.exe.config
+C:\Users\darnoK3016\source\repos\ee\Server\Server\bin\Debug\Server.exe
+C:\Users\darnoK3016\source\repos\ee\Server\Server\bin\Debug\Server.pdb
+C:\Users\darnoK3016\source\repos\ee\Server\Server\bin\Debug\EntityFramework.dll
+C:\Users\darnoK3016\source\repos\ee\Server\Server\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\darnoK3016\source\repos\ee\Server\Server\bin\Debug\EntityFramework.xml
+C:\Users\darnoK3016\source\repos\ee\Server\Server\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\darnoK3016\source\repos\ee\Server\Server\obj\Debug\Restaurant_server_application.csproj.CopyComplete
+C:\Users\darnoK3016\source\repos\Restaurant_project2\Restaurant_server_application\Restaurant_server_application\bin\Debug\EntityFramework.dll
+C:\Users\darnoK3016\source\repos\Restaurant_project2\Restaurant_server_application\Restaurant_server_application\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\darnoK3016\source\repos\Restaurant_project2\Restaurant_server_application\Restaurant_server_application\bin\Debug\EntityFramework.xml
+C:\Users\darnoK3016\source\repos\Restaurant_project2\Restaurant_server_application\Restaurant_server_application\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\darnoK3016\source\repos\Restaurant_project2\Restaurant_server_application\Restaurant_server_application\obj\Debug\Restaurant_server_application.csprojAssemblyReference.cache
+C:\Users\darnoK3016\source\repos\Restaurant_project2\Restaurant_server_application\Restaurant_server_application\obj\Debug\pl.edu.wat.wcy.pz.restaurant_server_application.Migrations.Initial.resources
+C:\Users\darnoK3016\source\repos\Restaurant_project2\Restaurant_server_application\Restaurant_server_application\obj\Debug\Restaurant_server_application.csproj.GenerateResource.cache
+C:\Users\darnoK3016\source\repos\Restaurant_project2\Restaurant_server_application\Restaurant_server_application\obj\Debug\Restaurant_server_application.csproj.CoreCompileInputs.cache
+C:\Users\darnoK3016\source\repos\Restaurant_project2\Restaurant_server_application\Restaurant_server_application\obj\Debug\Restaurant_server_application.csproj.CopyComplete
+C:\Users\darnoK3016\source\repos\Restaurant_project2\Restaurant_server_application\Restaurant_server_application\bin\Debug\Restaurant_server_application.exe.config
+C:\Users\darnoK3016\source\repos\Restaurant_project2\Restaurant_server_application\Restaurant_server_application\bin\Debug\Restaurant_server_application.exe
+C:\Users\darnoK3016\source\repos\Restaurant_project2\Restaurant_server_application\Restaurant_server_application\bin\Debug\Restaurant_server_application.pdb
+C:\Users\darnoK3016\source\repos\Restaurant_project2\Restaurant_server_application\Restaurant_server_application\obj\Debug\Restaurant_server_application.exe
+C:\Users\darnoK3016\source\repos\Restaurant_project2\Restaurant_server_application\Restaurant_server_application\obj\Debug\Restaurant_server_application.pdb
+C:\Users\GeriOski\Desktop\ZDARZENIOWKA RESTAURACJA\Restaurant_project-master\Restaurant_server_application\Restaurant_server_application\bin\Debug\Restaurant_server_application.exe.config
+C:\Users\GeriOski\Desktop\ZDARZENIOWKA RESTAURACJA\Restaurant_project-master\Restaurant_server_application\Restaurant_server_application\bin\Debug\Restaurant_server_application.exe
+C:\Users\GeriOski\Desktop\ZDARZENIOWKA RESTAURACJA\Restaurant_project-master\Restaurant_server_application\Restaurant_server_application\bin\Debug\Restaurant_server_application.pdb
+C:\Users\GeriOski\Desktop\ZDARZENIOWKA RESTAURACJA\Restaurant_project-master\Restaurant_server_application\Restaurant_server_application\bin\Debug\EntityFramework.dll
+C:\Users\GeriOski\Desktop\ZDARZENIOWKA RESTAURACJA\Restaurant_project-master\Restaurant_server_application\Restaurant_server_application\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\GeriOski\Desktop\ZDARZENIOWKA RESTAURACJA\Restaurant_project-master\Restaurant_server_application\Restaurant_server_application\bin\Debug\EntityFramework.xml
+C:\Users\GeriOski\Desktop\ZDARZENIOWKA RESTAURACJA\Restaurant_project-master\Restaurant_server_application\Restaurant_server_application\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\GeriOski\Desktop\ZDARZENIOWKA RESTAURACJA\Restaurant_project-master\Restaurant_server_application\Restaurant_server_application\obj\Debug\Restaurant_server_application.csprojAssemblyReference.cache
+C:\Users\GeriOski\Desktop\ZDARZENIOWKA RESTAURACJA\Restaurant_project-master\Restaurant_server_application\Restaurant_server_application\obj\Debug\pl.edu.wat.wcy.pz.restaurant_server_application.Migrations.Initial.resources
+C:\Users\GeriOski\Desktop\ZDARZENIOWKA RESTAURACJA\Restaurant_project-master\Restaurant_server_application\Restaurant_server_application\obj\Debug\Restaurant_server_application.csproj.GenerateResource.cache
+C:\Users\GeriOski\Desktop\ZDARZENIOWKA RESTAURACJA\Restaurant_project-master\Restaurant_server_application\Restaurant_server_application\obj\Debug\Restaurant_server_application.csproj.CopyComplete
+C:\Users\GeriOski\Desktop\ZDARZENIOWKA RESTAURACJA\Restaurant_project-master\Restaurant_server_application\Restaurant_server_application\obj\Debug\Restaurant_server_application.exe
+C:\Users\GeriOski\Desktop\ZDARZENIOWKA RESTAURACJA\Restaurant_project-master\Restaurant_server_application\Restaurant_server_application\obj\Debug\Restaurant_server_application.pdb

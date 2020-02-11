@@ -1,0 +1,27 @@
+﻿<UserControl x:Class="pl.edu.wat.wcy.pz.restaurant_client_application.Xaml.Cook.IngredientsAvailability"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+             xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+             xmlns:local="clr-namespace:pl.edu.wat.wcy.pz.restaurant_client_application.Xaml.Cook"
+             mc:Ignorable="d" 
+             HorizontalAlignment="Stretch"
+             VerticalAlignment="Stretch"
+             HorizontalContentAlignment="Stretch"
+             VerticalContentAlignment="Stretch"    
+             Height="Auto"
+             Width="Auto">
+    <UserControl.Background>
+        <ImageBrush ImageSource="/Restaurant_client_application;component/Images/BackgroundTheme.jpg"/>
+    </UserControl.Background>
+    <Grid Width = "Auto" MinWidth="954" Height = "Auto" MinHeight="540">
+        <TextBlock TextWrapping="Wrap" FontFamily="Gabriola" FontSize="26" Height = "Auto" MinHeight="38" Width = "Auto" MinWidth="264"  Foreground="#DD5B799C" HorizontalAlignment="Center" VerticalAlignment="Top" Margin="346,53,345,0" TextAlignment="Center"><Run Text="Wyszukaj "/><Run Text="składnik"/></TextBlock>
+        <TextBox x:Name="TextBoxSearch" HorizontalAlignment="Center" Height = "Auto" MinHeight="38" TextWrapping="WrapWithOverflow" VerticalAlignment="Top" Width = "Auto" MinWidth="271" AutomationProperties.IsOffscreenBehavior="Onscreen" FontFamily="Gabriola" FontSize="22" RenderTransformOrigin="0.5,0.5" MaxLines="1" MaxLength="20" TextDecorations="{x:Null}" HorizontalScrollBarVisibility="Auto" Background="#DD304155" BorderThickness="1" SelectionBrush="#DDFFFFFF" CaretBrush="#DD2569AC" Margin="342,102,342,0" TextChanged="TextBoxSearch_TextChanged"/>
+        <ListBox x:Name="ListBoxIngredients" HorizontalContentAlignment="Center"  VerticalContentAlignment="Center" Height = "Auto" MinHeight="280" Width = "Auto" MinWidth="550" Margin="200,160,200,110"  Foreground="#DDD4BE75" FontSize="26" FontFamily="Gabriola" SelectionChanged="ListBoxIngredients_SelectionChanged">
+            <ListBox.Background>
+                <ImageBrush ImageSource="/Restaurant_client_application;component/Images/MenuTheme.JPG" Stretch="UniformToFill"/>
+            </ListBox.Background>
+        </ListBox>
+        <Button x:Name="ButtonChangeAvailability" Content="Wybierz składnik" HorizontalAlignment="Center" VerticalAlignment="Bottom" Width = "Auto" MinWidth="271" Height = "Auto" MinHeight="38" Background="#DD304155" FontFamily="Gabriola" FontSize="26" BorderThickness="1"  Foreground="#DDD4BE75" BorderBrush="#DD2569AC" Margin="342,0,342,40" Click="ButtonChangeAvailability_Click"/>
+    </Grid>
+</UserControl>
